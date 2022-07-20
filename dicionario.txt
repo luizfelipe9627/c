@@ -1,0 +1,14 @@
+BIBLIOTECAS
+
+#include <stdio.h> -> Permite funções úteis para entrada e saída de dados.
+#include <stdlib.h> -> Permite funções envolvendo alocação de memória, controle de processos, conversões e outras. 
+#include <locale.h> e  setlocale(LC_ALL, "Portuguese"); -> Vai garantir que caracteres como “ç” e acentuação sejam exibidos normalmente no idioma escolhido.
+
+FUNÇÕES
+
+printf() -> Permite apresentar na tela os valores de qualquer tipo de dado.
+scanf() -> Permite que se leia um int, um float e um int, nesta ordem
+fflush(stdin); -> Usado para realizar a limpeza do buffer do teclado.
+gets(name); -> Usado para trabalhar com strings, lê até mesmo depois do espaço.
+system("") -> Usado para aplicar uma ação no terminal.
+
