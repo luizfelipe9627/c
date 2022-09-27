@@ -1,7 +1,7 @@
 # C 
 <img src="https://cuboup.s3.sa-east-1.amazonaws.com/br/wp-content/uploads/2021/08/01205948/Linguagem-C-Programacao-Basica.jpg" alt="C">
 
-## 📄 Descrição
+## :thought_balloon: Conceito
 C é uma linguagem de programação compilada de propósito geral, estruturada, imperativa, procedural, padronizada pela Organização Internacional para Padronização (ISO), criada em 1972 por Dennis Ritchie na empresa AT&T Bell Labs para desenvolvimento do sistema operacional Unix (originalmente escrito em Assembly).
 
 ## 💻 Tecnologias utilizadas
